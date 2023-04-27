@@ -18,7 +18,6 @@ Sou um aluno que busca, cada vez mais, melhorar as próprias capacidades e tem i
   <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   </p>
 <h3>🧰 Ferramentas</h3> 
   <p>
@@ -31,7 +30,9 @@ Sou um aluno que busca, cada vez mais, melhorar as próprias capacidades e tem i
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   </p>
-</div>
+  <p>
+    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  </p>
 <h3>🎨 Design</h3>
 <p dir="auto">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
