@@ -1,12 +1,12 @@
 ### 👋 Oi, eu sou o Yves! 
 #### Bem vindo ao meu perfil!
 
-- 🎓 Sou um aluno de engenharia de software na UnB (Universidade de Brasília).
-- 🎓 Estou fazendo bacharel em análise e desenvolvimento de sistemas na Unicesumar.
-- 💻 Estou desenvolvendo um jogo independente.
-- 🌱 estou aprendendo C#.
+- 🎓 Aluno de engenharia de software na UnB (Universidade de Brasília).
+- 🎓 Bacharel em análise e desenvolvimento de sistemas na Unicesumar.
+- 💻 Desenvolvendo um jogo independente.
+- 🌱 Aprendendo C#.
 
-Sou um aluno que busca, cada vez mais, melhorar as próprias capacidades e tem interesse nas áreas de energia, IoT (Internet das coisas), logística e no desenvolvimento de jogos. Abaixo estão algumas ferramentas e linguagens que tenho alguma experiência.
+Um aluno que busca cada vez mais, melhorar as próprias capacidades e que tem interesse nas áreas de energia, IoT (Internet das coisas), logística, automação e no desenvolvimento de jogos. Abaixo estão algumas ferramentas e linguagens que tenho alguma experiência.
 
 <h3>💻 Linguagens</h3>
   <p>
