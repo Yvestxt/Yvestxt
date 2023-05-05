@@ -1,42 +1,58 @@
-### 👋 Oi, eu sou o Yves! 
-#### Bem vindo ao meu perfil!
+<h1 align="center">Oi, eu sou o Yves!</h1> 
+<h3> Bem vindo ao meu perfil! </h3>
+  <ul>
+    <li>Aluno de engenharia de software na UnB (Universidade de Brasília).</li>
+    <li>Bacharel em análise e desenvolvimento de sistemas pela Unicesumar.</li>
+    <li>Desenvolvendo um jogo independente.</li>
+    <li>Atualmente trabalhando com Python e C#.</li>
+  </ul>
 
-- Aluno de engenharia de software na UnB (Universidade de Brasília).
-- Bacharel em análise e desenvolvimento de sistemas na Unicesumar.
-- Desenvolvendo um jogo independente.
-- Aprendendo C# e JavaScript.
+> Um eterno aprendiz que tem interesse nas áreas de energia, IoT - Internet of Things, logística, automação e no desenvolvimento de jogos.
+ 
+<h3 align="center">Abaixo estão algumas tecnologias que tenho certa experiência</h3>
 
-Um aluno que busca cada vez mais, melhorar as próprias capacidades e que tem interesse nas áreas de energia, IoT (Internet das coisas), logística, automação e no desenvolvimento de jogos. Abaixo estão algumas ferramentas e linguagens que tenho alguma experiência.
+<h2 align="center">Linguagens</h2>
+<div align="center">
+  <div style="display: inline-block; width: 50%;">
+    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black">
+    <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  </div>
+  <div style="display: inline-block; width: 50%;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  </div>
+</div>
 
-<h3>💻 Linguagens</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  </p>
-<h3>🧰 Ferramentas</h3> 
-  <p>
-    <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<h2 align="center">Ferramentas</h2>
+<div align="center">
+  <div style="display: inline-block; width: 50%;">
+    <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
+  </div>
+  <div style="display: inline-block; width: 50%;">
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-  </p>
-<h3>🎨 Design</h3>
-<p dir="auto">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-</p>
-<h3>🚀 Estatísticas</h3>
-  <p dir="auto">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Yvestxt&theme=dracula&rank_icon=github&count_private=true&amp&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&line_height=21"style="max-width: 100%;">
-      <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvestxt&theme=dracula&hide_border=true&hide_title=true&layout=compact"style="max-width: 100%;">
-    </a>
-  </p>
+  </div>
+</div>
+
+<h2 align="center">Design</h2>
+<div align="center">
+  <div style="display: inline-block; width: 50%;">
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white">
+  </div>
+</div>
+
+<h2></h2>
+
+<div align="center">
+  <div style="display: inline-block; width: 50%;">
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Yvestxt&hide_title=true&layout=compact&theme=omni&hide_border=true&count_private=true&disable_animations=true&rank_icon=github&include_all_commits=true">
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvestxt&hide_title=true&layout=compact&theme=omni&hide_border=true&count_private=true&disable_animations=true&include_all_commits=true">
+  </div>
+</div>      
